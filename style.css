@@ -71,7 +71,7 @@
 
 .equipe {
     background-color: #ffffffdb;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 .professor{
@@ -97,7 +97,7 @@
 }
 
 .rodapé{
-    background-color: #000000;
+    background-color: #ffffff;
     color: #000000;
     font-size: 20px;
     display: flex;
